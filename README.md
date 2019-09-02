@@ -1,2 +1,2 @@
 # SQLite
-SQLite installation and Benchmart
+SQLite installation and Benchmark
