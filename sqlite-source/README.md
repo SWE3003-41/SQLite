@@ -16,7 +16,7 @@ $ sudo make install
 ## Test
 ```bash
 # check sqlite version
-$ sqlite --version
+$ sqlite3 --version
 
 # table creation test
 $ sqlite3 [db path]/[db name]
