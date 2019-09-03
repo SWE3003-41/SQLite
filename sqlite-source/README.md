@@ -1,7 +1,7 @@
 # How to install SQLite3
 
 ## Check directory 
-- Compile 이하의 command 는 sqlite source code directory 의 하위 디렉토리인 `sqlite-source` direcory에서 수행한다.
+- Compile 이하의 command 는 sqlite source code directory 의 하위 디렉토리인 `sqlite-source` directory에서 수행한다.
 
 
 ## Compile 
